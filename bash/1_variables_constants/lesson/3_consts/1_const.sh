@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # 2 ways to declare constants
 readonly CONST1="Hello"
